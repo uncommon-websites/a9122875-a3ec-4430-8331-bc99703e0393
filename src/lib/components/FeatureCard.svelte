@@ -1,5 +1,5 @@
 <script lang="ts">
-	export let tagColor: string = "bg-brand-green";
+	export let tagColor: string = "bg-brand-primary";
 	export let tagIcon: string = "arrow"; // arrow or plus
 	export let title: string;
 	export let subtitle: string; // Small red text above title

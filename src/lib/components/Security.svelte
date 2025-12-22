@@ -25,10 +25,10 @@
 			</div>
 			<div class="flex items-center gap-2 mb-4 text-accent-pink">
 				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17.5 19c0-1.7-1.3-3-3-3h-5c-1.7 0-3 1.3-3 3"/><path d="M12 13v-3"/><path d="M12 5a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"/></svg>
-				<span class="font-mono text-xs uppercase tracking-widest">SELF-HOSTED DEPLOYMENT</span>
+				<span class="font-mono text-xs uppercase tracking-widest">ON-PREMISE DEPLOYMENT</span>
 			</div>
 			<p class="text-gray-600 text-sm max-w-sm">
-				Deploy in your own air-gapped environment with complete control over your infrastructure. <a href="/" class="underline decoration-gray-400 hover:text-gray-900">Learn more</a>
+				Run Phosphor in your own environment. Perfect for teams with strict security requirements. <a href="/" class="underline decoration-gray-400 hover:text-gray-900">Learn more</a>
 			</p>
 		</div>
 

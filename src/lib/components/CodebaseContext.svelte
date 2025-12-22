@@ -1,17 +1,17 @@
-<section class="bg-[#B4D3C6] py-24 px-6 md:px-12 relative overflow-hidden">
+<section class="bg-[oklch(0.885_0.062_18.334)] py-24 px-6 md:px-12 relative overflow-hidden">
 	<div class="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center relative z-10">
 		<div>
 			<span class="font-mono text-[10px] text-gray-600 uppercase tracking-widest mb-4 block">
-				[ 30+ LANGUAGES SUPPORTED ]
+				[ ENTERPRISE-GRADE INFRASTRUCTURE ]
 			</span>
 			<h2 class="font-display text-4xl md:text-5xl lg:text-6xl font-medium tracking-tight text-gray-900 mb-6 leading-[0.95]">
-				Full Codebase<br>Context
+				Fully Managed<br>Infrastructure
 			</h2>
 			<p class="font-mono text-sm text-gray-700 max-w-md mb-8 leading-relaxed">
-				Greptile generates a detailed graph of your codebase and understands how everything fits together. Better understanding of your codebase = more bugs caught.
+				Phosphor handles all the complexity of test infrastructure. Browsers, parallelization, retries, and scaling—all managed for you. Focus on building, not maintaining tests.
 			</p>
 			
-			<button class="bg-brand-green text-white px-5 py-2.5 rounded text-sm font-medium hover:bg-brand-green-hover transition-colors flex items-center gap-2 font-mono uppercase tracking-wide text-xs w-fit">
+			<button class="bg-brand-primary text-white px-5 py-2.5 rounded text-sm font-medium hover:bg-brand-primary-hover transition-colors flex items-center gap-2 font-mono uppercase tracking-wide text-xs w-fit">
 				Learn more ->
 			</button>
 		</div>

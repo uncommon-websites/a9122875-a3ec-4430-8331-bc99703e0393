@@ -42,13 +42,13 @@
 	--font-display: "Newsreader", serif;
 	--font-mono: "JetBrains Mono", monospace;
 
-	--color-brand-green: #009045;
-	--color-brand-green-hover: #007a3a;
+	--color-brand-primary: oklch(0.637 0.237 25.331);
+	--color-brand-primary-hover: oklch(0.577 0.245 27.325);
 	--color-brand-dark: #121212;
 	--color-bg-beige: #EAEAE8;
 	--color-bg-card: #F3F3F1;
 	
-	--color-accent-orange: #F97316;
+	--color-accent-orange: oklch(0.704 0.191 22.216);
 	--color-accent-pink: #EC4899;
 	--color-accent-yellow: #EAB308;
 }

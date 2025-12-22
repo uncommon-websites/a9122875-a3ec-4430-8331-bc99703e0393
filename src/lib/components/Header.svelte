@@ -15,8 +15,8 @@
 <header class="fixed top-0 left-0 right-0 z-50 transition-all duration-300 px-6 py-4 flex items-center justify-between {isScrolled ? 'bg-[#EAEAE8]/90 backdrop-blur-md border-b border-gray-200' : 'bg-transparent'}">
 	<div class="flex items-center gap-8">
 		<a href="/" class="flex items-center gap-2 text-brand-dark font-medium text-xl tracking-tight">
-			<div class="w-6 h-6 bg-brand-green rounded-sm flex items-center justify-center text-white text-xs font-bold">G</div>
-			Greptile
+			<div class="w-6 h-6 bg-brand-primary rounded-sm flex items-center justify-center text-white text-xs font-bold">P</div>
+			Phosphor
 		</a>
 		
 		<nav class="hidden md:flex items-center gap-6 text-sm font-medium text-gray-600">
@@ -36,6 +36,6 @@
 
 	<div class="flex items-center gap-4">
 		<a href="#signin" class="text-sm font-medium text-white bg-black px-4 py-2 rounded hover:bg-gray-800 transition-colors">Sign In</a>
-		<a href="#start" class="text-sm font-medium text-white bg-brand-green px-4 py-2 rounded hover:bg-brand-green-hover transition-colors shadow-sm">Start Now</a>
+		<a href="#start" class="text-sm font-medium text-white bg-brand-primary px-4 py-2 rounded hover:bg-brand-primary-hover transition-colors shadow-sm">Start Free Trial</a>
 	</div>
 </header>
